@@ -6,7 +6,7 @@
       "use": "@vercel/node"
     }
   ],
-  "routes": [{ "src": "/(.*)", "dest": "lifePub.js" }],
+  "routes": [{ "src": "/(.*)", "dest": "happyPub.js" }],
   "env": {
     "USUARIO": "felipe",
     "PASSWORD": "154254693Feli",
